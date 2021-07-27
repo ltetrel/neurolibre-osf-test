@@ -1,4 +1,3 @@
 { "src": "https://osf.io/fuqsk/",
   "dst": "./data",
-  "projectName": "repo2data_osf",
-  "recursive": true}
+  "projectName": "repo2data_osf"}
